@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+
+#fire-img {
+  display: none;
+}
+
+#wolf {
+  display: none;
+}
+
+#bird {
+  display: none;
+}
